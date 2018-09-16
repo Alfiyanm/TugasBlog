@@ -90,10 +90,6 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-
-                <form method="POST" action="/">
-                     @method('PUT')
-                </form>
             </div>
         </div>
     </body>
